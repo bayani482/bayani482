@@ -21,4 +21,4 @@ Mobile: React Native\
 Backend: Node.js\
 Frontend: React, Next.js\
 Database: MongoDB MySQL\
-IDE: VSCode, Arduino\
+IDE: VSCode, Arduino
