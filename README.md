@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 I am a Full Stack Developer, Specializing in building websites and mobile applicaitons, and the backend.
 
-Language: Javascript, Python, C++, Java 
-Mobile: React Native 
-Backend: Node.js 
-Frontend: React, Next.js 
-Database: MongoDB MySQL 
+Language: Javascript, Python, C++, Java
+Mobile: React Native
+Backend: Node.js
+Frontend: React, Next.js
+Database: MongoDB MySQL
 IDE: VSCode, Arduino
