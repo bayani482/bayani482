@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 I am a Full Stack Developer, Specializing in building websites and mobile applicaitons, and the backend.
 
-Language:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />Javascript, Python, C++, Java\
+Language:<img align="left" alt"java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+Javascript, Python, C++, Java\
 Mobile: React Native\
 Backend: Node.js\
 Frontend: React, Next.js\
